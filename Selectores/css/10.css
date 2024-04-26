@@ -1,0 +1,22 @@
+/* a[href="http://www.google.com"] {
+    color: red;
+} */
+
+/* a[href="tienda.html"] {
+    color: red;
+} */
+
+/* a[href^="http"] {
+    color: red;
+} */
+
+a[href$="com"] {
+    color: red;
+}
+
+/* El ^ es INICIE con */
+/* El $ FINALICE con */
+
+input[type="tel"] {
+    border: 2px solid orange;
+}
